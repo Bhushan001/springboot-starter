@@ -45,7 +45,7 @@ public class GreetingController {
         System.out.println(helloWorldServiceFrench.getGreeting());
         System.out.println(helloWorldServiceGerman.getGreeting());
         System.out.println(helloWorldServicePolish.getGreeting());
-        System.out.println(helloWorldServiceRussian.getGreeting());
+//        System.out.println(helloWorldServiceRussian.getGreeting());
         return greeting;
     }
 }
