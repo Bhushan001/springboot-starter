@@ -4,6 +4,6 @@ public class HelloWorldServiceGermanImpl implements  HelloWorldService {
     @Override
     public String getGreeting() {
 
-        return "Hello World in German";
+        return "Hello Welt";
     }
 }
